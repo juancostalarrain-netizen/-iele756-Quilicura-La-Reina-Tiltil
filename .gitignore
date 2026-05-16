@@ -1,0 +1,18 @@
+# Large data files
+*.parquet
+*.zip
+*.rar
+GRD_PUBLICO*.txt
+shared/
+shared_raw/
+viv_hog_per_censo2024/
+iele26_data/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
