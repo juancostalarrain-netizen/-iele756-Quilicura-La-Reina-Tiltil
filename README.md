@@ -14,7 +14,7 @@
 
 # Anomaly
 
-Nuestra anomalía consiste en que Tiltil (código 13125) presenta una tasa de egresos hospitalarios (GRD) de **69.79 por 10.000 habitantes**, prácticamente idéntica a su tasa de notificaciones ENO (77.42 por 10k), resultando en un cociente GRD/ENO de 0.9.
+Nuestra anomalía consiste en que Tiltil (código 13125) presenta una tasa de egresos hospitalarios (GRD) de 69.79 por 10.000 habitantes, prácticamente idéntica a su tasa de notificaciones ENO (77.42 por 10k), resultando en un cociente GRD/ENO de 0.9.
 
 Esperábamos un cociente GRD/ENO de entre 7 y 20 (rango observado en el resto de la Región Metropolitana), pero observamos un valor de 0.9 — estructuralmente imposible bajo funcionamiento normal del sistema de salud, ya que los egresos hospitalarios siempre superan ampliamente a las notificaciones de enfermedades de declaración obligatoria.
 
@@ -79,11 +79,11 @@ Para regenerar desde cero: ejecutar `notebooks/tarea3.ipynb` primero (~5–10 mi
 
 # AI Use Disclosure
 
-Utilizamos **Claude (Anthropic)** como herramienta de asistencia durante el proyecto:
+Utilizamos Claude (Anthropic) como herramienta de asistencia durante el proyecto:
 
-- **Depuración de código**: errores en joins con GeoPandas (proyecciones CRS, merge por nombre normalizado).
-- **Redacción del README**: borrador inicial revisado y corregido por ambos integrantes.
-- **Estructura de `final_anomaly.ipynb`**: sugerencia de la estructura de secciones; el código y el análisis fueron revisados, ejecutados y validados por el equipo.
-- **Identificación de la anomalía**: Claude señaló el patrón del cociente GRD/ENO; la interpretación causal y los chequeos de hipótesis alternativas fueron desarrollados por el equipo.
+- Depuración de código: errores en joins con GeoPandas (proyecciones CRS, merge por nombre normalizado).
+- Redacción del README: borrador inicial revisado y corregido por ambos integrantes.
+- Estructura de `final_anomaly.ipynb`: sugerencia de la estructura de secciones; el código y el análisis fueron revisados, ejecutados y validados por el equipo.
+- Identificación de la anomalía: Claude señaló el patrón del cociente GRD/ENO; la interpretación causal y los chequeos de hipótesis alternativas fueron desarrollados por el equipo.
 
 Toda afirmación numérica y causal es responsabilidad de Felipe Alonso y Juan Costa.
