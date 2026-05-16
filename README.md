@@ -5,7 +5,7 @@
 - Juan Costa
 
 ## Repository
-[AGREGAR LINK AL REPO]
+[https://github.com/juancostalarrain-netizen/-iele756-Quilicura-La-Reina-Tiltil](https://github.com/juancostalarrain-netizen/-iele756-Quilicura-La-Reina-Tiltil)
 
 ## Video
 [AGREGAR LINK AL VIDEO]
