@@ -85,5 +85,6 @@ Utilizamos Claude (Anthropic) como herramienta de asistencia durante el proyecto
 - Redacción del README: borrador inicial revisado y corregido por ambos integrantes.
 - Estructura de `final_anomaly.ipynb`: sugerencia de la estructura de secciones; el código y el análisis fueron revisados, ejecutados y validados por el equipo.
 - Identificación de la anomalía: Claude señaló el patrón del cociente GRD/ENO; la interpretación causal y los chequeos de hipótesis alternativas fueron desarrollados por el equipo.
+- Organización del repositorio GitHub: Claude reorganizó la estructura de carpetas, renombró los notebooks a nombres canónicos (tarea0–tarea3, final_anomaly), movió los archivos a las carpetas correctas (notebooks/, figs/, output/, data/) y realizó el commit y push al repositorio remoto.
 
 Toda afirmación numérica y causal es responsabilidad de Felipe Alonso y Juan Costa.
